@@ -2,10 +2,10 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2C5F7C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Punithreddy+K+R+%F0%9F%91%8B;CSE+Student+%7C+AI%2FML+%2B+Full-Stack;Building+real-world+tech%2C+one+project+at+a+time;Open+to+internship+opportunities" alt="Typing SVG" />
 
-<img src="banner.svg" alt="profile banner" width="100%"/>
+<img src="banner_v2.svg" alt="profile banner" width="100%"/>
 
-<a href="https://github.com/punithreddy-ai/punithreddy-ai/raw/main/Punithreddy_KR_Resume.pdf">
-<img src="https://img.shields.io/badge/📄%20Resume-Download-2C5F7C?style=for-the-badge"/>
+<a href="https://github.com/punithreddy-ai/punithreddy-ai/blob/main/Punithreddy_KR_Resume.pdf">
+<img src="https://img.shields.io/badge/📄%20Resume-View-2C5F7C?style=for-the-badge"/>
 </a>
 <a href="https://linkedin.com/in/punithreddykr-ai-98681328b">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -144,5 +144,5 @@ Currently exploring MLOps and deployment — expect more end-to-end projects her
 <br/>
 
 <div align="center">
-<sub>📄 Full details in my <a href="https://github.com/punithreddy-ai/punithreddy-ai/raw/main/Punithreddy_KR_Resume.pdf">resume</a> · 📫 Reach me at punithreddykr33@gmail.com · 🚧 Actively building — check back often</sub>
+<sub>📄 Full details in my <a href="https://github.com/punithreddy-ai/punithreddy-ai/blob/main/Punithreddy_KR_Resume.pdf">resume</a> · 📫 Reach me at punithreddykr33@gmail.com · 🚧 Actively building — check back often</sub>
 </div>
