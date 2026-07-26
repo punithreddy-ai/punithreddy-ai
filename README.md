@@ -20,7 +20,7 @@
 
 ## 👋 About Me
 
-Computer Science & Engineering student at **Sri Krishna Institute of Technology, Bengaluru** (CGPA 8.1, 2023–2027), building hands-on experience across **software development, AI/ML, and data analysis**. I like taking projects from idea to working system — from computer-vision authentication to full ML pipelines — and I'm currently looking for an **internship** to put these skills to work on real problems.
+Computer Science & Engineering student at **Sri Krishna Institute of Technology, Bengaluru** (CGPA 8.44, 2023–2027), building hands-on experience across **software development, AI/ML, and data analysis**. I like taking projects from idea to working system — from computer-vision authentication to full ML pipelines — and I'm currently looking for an **internship** to put these skills to work on real problems.
 
 - 🧠 Focused on: Python, Machine Learning, Data Analysis, Full-Stack Web Development
 - 🏗️ Recently shipped: a breast cancer diagnostic classifier (98.2% accuracy) and a face-recognition voting system
@@ -132,7 +132,7 @@ Currently exploring MLOps and deployment — expect more end-to-end projects her
 
 | Institution | Program | Score | Years |
 |---|---|---|---|
-| Sri Krishna Institute of Technology, Bengaluru | B.E., Computer Science Engineering | CGPA 8.1 | 2023 – 2027 |
+| Sri Krishna Institute of Technology, Bengaluru | B.E., Computer Science Engineering | CGPA 8.44 | 2023 – 2027 |
 | Amara Jyothi PU College, Karnataka | II PUC (PCMCS) | 81% | 2021 – 2023 |
 
 <br/>
