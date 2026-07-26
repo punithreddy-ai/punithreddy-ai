@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2C5F7C&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Punithreddy+K+R+%F0%9F%91%8B;CSE+Student+%7C+AI%2FML+%2B+Full-Stack;Building+real-world+tech%2C+one+project+at+a+time;Open+to+internship+opportunities" alt="Typing SVG" />
 
-<img src="banner_v2.svg" alt="profile banner" width="100%"/>
+<img src="banner.svg" alt="profile banner" width="100%"/>
 
 <a href="https://github.com/punithreddy-ai/punithreddy-ai/blob/main/Punithreddy_KR_Resume.pdf">
 <img src="https://img.shields.io/badge/📄%20Resume-View-2C5F7C?style=for-the-badge"/>
